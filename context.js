@@ -65,7 +65,7 @@ var car = {
 
 car.getName();
 
-/* Использование функций call apply и также bind*/
+/* Пример использование функций call apply и также bind*/
 
 var car = {
     name: 'ford',
